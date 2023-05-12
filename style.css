@@ -1,0 +1,13 @@
+#malam{
+    display: inline;
+    padding: 20px;
+    margin: 20px 20px 30px;
+}
+
+a:hover{
+    color: aqua;
+}
+
+a{
+    transition: all 0,9s ease;
+}
